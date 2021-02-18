@@ -59,3 +59,5 @@ function imgPlace(n, dx, dy, XsideLen, YsideLen) {
   print('KG' + n);
 
 }
+
+function windowResized() {   resizeCanvas(windowWidth, windowHeight); }
