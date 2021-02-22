@@ -13,6 +13,13 @@ h1 {
  
 }
 
+h3 {
+font-family: 'Alfa Slab One', cursive;
+    color: #FFFFFF;
+    fontsize; 40px; 
+    letter-spacing: 10px;
+    
+}
 
 canvas {
     display: block;
