@@ -6,7 +6,10 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Alfa Slab One', cursive;   
+    font-family: 'Alfa Slab One', cursive;
+    color: #bac2bd;
+    fontsize; 80px; 
+    letter-spacing: 4px;
  
 }
 
